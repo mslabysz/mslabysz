@@ -8,11 +8,11 @@
  
 - 🔭 I'm currently trying to improve my Java skills.
 
- 👨‍🎓 Roadmap:
+ 🗺️ Roadmap:
 
 | Java | JavaScript | SQL | C# | 
 
- - :man_technologist: My hobbies:  :eyes: MMA :eyes: Music :eyes: Programming :eyes: Movies
+ - :man_technologist: My hobbies:  :eyes: MMA :eyes: Music :eyes: Programming :eyes: Movies :eyes:
 
 
 ### 📧 How to reach me: 
