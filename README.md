@@ -1,5 +1,5 @@
 ### <p align="center">Hi 👋<p>
-## <p align="center"> My name is Maks and I am a student of University of Gdansk<p>
+## <p align="center"> My name is Maks and I am a student of PJATK<p>
 <div id="header" align="center">
   
 </div>
