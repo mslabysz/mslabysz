@@ -34,9 +34,9 @@ Currently looking for an AI/NLP internship where I can contribute and keep learn
 Geopolitical news analysis platform with a full LangGraph NLP pipeline — entity recognition, sentiment analysis, topic classification, and LLM summaries. Includes an AI chat interface, source bias detection, entity relationship graph, and hotspot map.  
 `Python` `FastAPI` `React` `LangChain/Groq` `spaCy` `pgvector`
  
-### [PJATK Academic Assistant](https://github.com/mslabysz/pjatk-chatbot)
-RAG chatbot for university students powered by the Polish **Bielik-7B-Instruct** model (4-bit quantization). Hybrid semantic + keyword search over university documents, streamed responses via SSE.  
-`Python` `FastAPI` `FAISS` `Sentence Transformers` `React/TypeScript`
+### [PJATK Academic Assistant](https://github.com/mslabysz/pjatk-chatbot)](https://github.com/mslabysz/rag-legal-assistant)
+Agentic RAG for Polish legal acts. LangGraph self-corrective retrieval with multi-query search and FlashRank reranking over Qdrant, streamed via SSE.
+`Python` `FastAPI` `LangGraph` `Qdrant` `OpenAI API`
  
 ### [Academic Notes Assistant](https://github.com/mslabysz/academic-materials-agent-system)
 Agentic system that transcribes YouTube videos and audio files, then generates structured notes (summaries, flashcards, mind maps, Q&A) using GPT-4o. Supervisor agent orchestrated with LangGraph; quality evaluated via Ragas and BLEU metrics.  
