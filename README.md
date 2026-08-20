@@ -34,7 +34,7 @@ Currently looking for an AI/NLP internship where I can contribute and keep learn
 Geopolitical news analysis platform with a full LangGraph NLP pipeline — entity recognition, sentiment analysis, topic classification, and LLM summaries. Includes an AI chat interface, source bias detection, entity relationship graph, and hotspot map.  
 `Python` `FastAPI` `React` `LangChain/Groq` `spaCy` `pgvector`
  
-### [PJATK Academic Assistant](https://github.com/mslabysz/pjatk-chatbot)](https://github.com/mslabysz/rag-legal-assistant)
+### [RAG Legal Assistant](https://github.com/mslabysz/rag-legal-assistant)
 Agentic RAG for Polish legal acts. LangGraph self-corrective retrieval with multi-query search and FlashRank reranking over Qdrant, streamed via SSE.
 `Python` `FastAPI` `LangGraph` `Qdrant` `OpenAI API`
  
