@@ -35,7 +35,7 @@ Geopolitical news analysis platform with a full LangGraph NLP pipeline — entit
 `Python` `FastAPI` `React` `LangChain/Groq` `spaCy` `pgvector`
  
 ### [RAG Legal Assistant](https://github.com/mslabysz/rag-legal-assistant)
-Agentic RAG for Polish legal acts. LangGraph self-corrective retrieval with multi-query search and FlashRank reranking over Qdrant, streamed via SSE.
+Agentic RAG assistant for querying Polish legal acts. A LangGraph pipeline grades retrieved chunks, rewrites the query when nothing is relevant, and refuses to answer from the model's own knowledge. Multi-query search and FlashRank reranking over Qdrant, with in-browser PDF upload and SSE streaming.
 `Python` `FastAPI` `LangGraph` `Qdrant` `OpenAI API`
  
 ### [Academic Notes Assistant](https://github.com/mslabysz/academic-materials-agent-system)
